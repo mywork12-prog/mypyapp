@@ -1,2 +1,2 @@
-###deployment script in python
-#configure server with mypyapp
+### deployment script in python
+# configure server with mypyapp

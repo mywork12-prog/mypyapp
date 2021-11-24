@@ -7,7 +7,7 @@ print('============Welcome to our app=================')
 if __name__ == "__main__":
     while(True):
         my_one()
-        print('Enter your name: ')
+        print('Enter your commands: ')
         x = input()
         print('Hello, ' + x)
         if(x == "exit"):
